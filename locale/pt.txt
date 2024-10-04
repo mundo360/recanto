@@ -6,25 +6,34 @@
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_48ACE93C_57C8_8A1B_41CA_A403E06E19D7.toolTip = Banheiro e Quarto 1
+HotspotPanoramaOverlayArea_49BD5753_57C8_866C_4190_F83D33A3DF04.toolTip = Cozinha
+
 ## Media
 
+### Subtitle
+panorama_4F6FE9A3_57C8_8A2C_416A_A0DAEE5FD422.subtitle = Porta de Entrada
+
 ### Title
-panorama_4F6FE9A3_57C8_8A2C_416A_A0DAEE5FD422.label = 01-entrada-ver2-edit
-panorama_404F3795_57C9_8615_41CF_03AD52FD12B1.label = 02-acesso-cozinha-edit
-panorama_40488BCD_57C9_8E75_41D0_2C47AE902410.label = 03-centro-cozinha-edit
-panorama_404F7F4C_57C9_867B_41CE_72C56206B907.label = 04-acesso-banheiroequarto-edit
-panorama_404892DF_57C9_BE14_41B0_168E5E9C0B2D.label = 05-banheiro-edit
-panorama_404F767E_57C9_8617_41A1_B2F7BFB7B8E9.label = 06-banheiro-centro-edit
-panorama_4048FA61_57C9_8E2D_41D2_3DB129AE185E.label = 07-porta-quarto-casal-edit
-panorama_404F8DC3_57C8_8A6D_41C8_55CB2D5F1646.label = 08-quarto-casal-edit
-panorama_4048622A_57C8_9E3F_41AE_5073BF8F4942.label = 09-cama-casal-edit
-panorama_404FD55A_57C8_BA1F_41C4_543B09026798.label = 10-box-banheiro-edit
-panorama_404F38E7_57C8_8A35_41C4_19FD683C9DFA.label = 11-acesso-quarto-kids-edit
-panorama_404FECAB_57C8_8A3D_4197_7BEABDEB0802.label = 12-centro-sala-edit
-panorama_4048007E_57C8_FA17_41B6_A1B2FA574CD0.label = 13-sala e mesa-edit
-panorama_404833DD_57C8_9E14_41CF_AA9FABFCAB0A.label = 14-quarto-kid-entrada-edit
-panorama_404F47A1_57C8_862C_41CC_39B3F73ADE28.label = 15-centro-quarto-kid-edit
-panorama_4048AB10_57C8_8FEB_41BA_B166C4C15759.label = 16-quarto-kid-frente-guarda-roupa-edit
+panorama_404F3795_57C9_8615_41CF_03AD52FD12B1.label = ACESSO COZINHA
+panorama_404F38E7_57C8_8A35_41C4_19FD683C9DFA.label = ACESSO SALA E QUARTO 02
+panorama_404892DF_57C9_BE14_41B0_168E5E9C0B2D.label = BANHEIRO
+panorama_404F767E_57C9_8617_41A1_B2F7BFB7B8E9.label = BANHEIRO CENTRO
+panorama_404F7F4C_57C9_867B_41CE_72C56206B907.label = BANHEIRO/QUARTO 01
+panorama_404FD55A_57C8_BA1F_41C4_543B09026798.label = BOX BANHEIRO
+panorama_40488BCD_57C9_8E75_41D0_2C47AE902410.label = COZINHA
+panorama_4F6FE9A3_57C8_8A2C_416A_A0DAEE5FD422.label = ENTRADA
+panorama_4048AB10_57C8_8FEB_41BA_B166C4C15759.label = QUARTO 02
+panorama_404F47A1_57C8_862C_41CC_39B3F73ADE28.label = QUARTO 02 - CENTRO
+panorama_404833DD_57C8_9E14_41CF_AA9FABFCAB0A.label = QUARTO 02- PORTA
+panorama_404F8DC3_57C8_8A6D_41C8_55CB2D5F1646.label = QUARTO CASAL
+panorama_4048622A_57C8_9E3F_41AE_5073BF8F4942.label = QUARTO CASAL CAMA
+panorama_4048FA61_57C9_8E2D_41D2_3DB129AE185E.label = QUARTO CASAL PORTA
+panorama_4048007E_57C8_FA17_41B6_A1B2FA574CD0.label = SALA / MESA
+panorama_404FECAB_57C8_8A3D_4197_7BEABDEB0802.label = SALA CENTRO
 
 ## Skin
 
@@ -34,14 +43,15 @@ Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = BANHEIRO |
 Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = COZINHA
 Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = COZINHA |
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INÍCIO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = INÍCIO |
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = QUARTO 1
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = QUARTO 1 |
 Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = QUARTO 2
 Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = QUARTO 2 |
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = SALA
-Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = SALA |
-Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
+Button_61133204_5847_B9EB_41B1_FE72B809196E_mobile.label = SALA |
 Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
 Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = lorem ipsum
 Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
 
@@ -52,12 +62,14 @@ Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0
 Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_pt.jpg
 Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_pt.png
 Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_pt.png
+Image_6ED96398_5858_BE1B_41C8_75171324A398.url = skin/Image_6ED96398_5858_BE1B_41C8_75171324A398_pt.png
 
 ### Label
-Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = DECORADO
-Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = DECORADO
+Label_6E0282D1_584F_BE6F_41C4_B7ADDC36803B_mobile.text = INSTRUÇÕES DE USO
 Label_0DD14F09_1744_0507_41AA_D8475423214A.text = TOUR 360°
 Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = Tour 360°
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = VISITA VIRTUAL
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = VISITA VIRTUAL
 
 ### Multiline Text
 HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
@@ -78,4 +90,4 @@ HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-ali
 ### Description
 
 ### Title
-tour.name = Sem Título 50
+tour.name = Apartamento Recanto das Emas
